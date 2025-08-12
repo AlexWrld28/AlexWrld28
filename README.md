@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate
 - 📫 Reach me at aazmax123@gmail.com (personal), or AZirilli@nassaucountyny.gov (work)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play the drums and am (unfortunately) a New York Giants fan
+- ⚡ Fun fact: I play the drums
 
 <!---
 AlexWrld28/AlexWrld28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
